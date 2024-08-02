@@ -1,0 +1,10 @@
+{
+    "projects": [{
+        "name": "trash_collector",
+        "path": "./sources/trash_collector.tact",
+        "output": "./sources/output",
+        "options":{
+            
+        }
+    }]
+}
